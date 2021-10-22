@@ -1,5 +1,5 @@
 AIRPORT = {
-  "name" => 'denver airport'
+  "name" => 'denver airport',
   "closest_airport" => 'colorado springs',
   "size_of_airport" => 'very big',
   "average_amount_of_people_yearly" => 30000000,
